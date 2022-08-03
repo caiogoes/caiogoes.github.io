@@ -1,61 +1,61 @@
-﻿{
-    "eleicao": [
-        {
-            "eleicao": "lula"
-        },
-        {
-            "eleicao": "lula livre"
-        },
-        {
-            "eleicao": "luiz inacio"
-        },
-        {
-            "eleicao": "bolsonaro"
-        },
-        {
-            "eleicao": "mito"
-        },
-        {
-            "eleicao": "jair messias"
-        },
-        {
-            "eleicao": "messias"
-        },
-        {
-            "eleicao": "Ciro Gomes"
-        },
-        {
-            "eleicao": "ciro"
-        },
-        {
-            "eleicao": "Simone Tebet"
-        },
-        {
-            "eleicao": "Tebet"
-        },
-        {
-            "eleicao": "André Janones"
-        },
-        {
-            "eleicao": "Jamones"
-        },
-        {
-            "eleicao": "Leonardo Péricles"
-        },
-        {
-            "eleicao": "Pablo Marçal"
-        },
-        {
-            "eleicao": "Vera Lúcia"
-        },
-        {
-            "eleicao": "Luiz Felipe d’Avila"
-        },
-        {
-            "eleicao": "Sofia Manzano"
-        },
-        {
-            "eleicao": "Eymael"
-        }
-    ]
+{
+  "eleicao": [
+    {
+      "eleicao": "lula"
+    },
+    {
+      "eleicao": "lula livre"
+    },
+    {
+      "eleicao": "luiz inacio"
+    },
+    {
+      "eleicao": "bolsonaro"
+    },
+    {
+      "eleicao": "mito"
+    },
+    {
+      "eleicao": "jair messias"
+    },
+    {
+      "eleicao": "messias"
+    },
+    {
+      "eleicao": "Ciro Gomes"
+    },
+    {
+      "eleicao": "ciro"
+    },
+    {
+      "eleicao": "Simone Tebet"
+    },
+    {
+      "eleicao": "Tebet"
+    },
+    {
+      "eleicao": "André Janones"
+    },
+    {
+      "eleicao": "Jamones"
+    },
+    {
+      "eleicao": "Leonardo Péricles"
+    },
+    {
+      "eleicao": "Pablo Marçal"
+    },
+    {
+      "eleicao": "Vera Lúcia"
+    },
+    {
+      "eleicao": "Luiz Felipe d’Avila"
+    },
+    {
+      "eleicao": "Sofia Manzano"
+    },
+    {
+      "eleicao": "Eymael"
+    }
+  ]
 }
