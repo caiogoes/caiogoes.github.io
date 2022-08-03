@@ -1,0 +1,49 @@
+{
+  "Página1": [
+    {
+      "phishing": "email bloqueado"
+    },
+    {
+      "phishing": "cartao bloqueado"
+    },
+    {
+      "phishing": "informe sua senha"
+    },
+    {
+      "phishing": "excedeu o limite"
+    },
+    {
+      "phishing": "clique no link"
+    },
+    {
+      "phishing": "atualize suas informações de pagamento"
+    },
+    {
+      "phishing": "verifique sua conta"
+    },
+    {
+      "phishing": "senha expirada"
+    },
+    {
+      "phishing": "pagamento recebido"
+    },
+    {
+      "phishing": "pagamento negado"
+    },
+    {
+      "phishing": "desconto de até"
+    },
+    {
+      "phishing": "bonus de"
+    },
+    {
+      "phishing": "pague a fatura"
+    },
+    {
+      "phishing": "tentativa de login"
+    },
+    {
+      "phishing": "escaneie o qr code"
+    }
+  ]
+}
